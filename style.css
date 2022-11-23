@@ -35,9 +35,13 @@
 .cat3 {
   background-color: blue;
 }
-.catagories h1{
-    color: white;
+.catagories h1 {
+  color: white;
 }
-.catagories img{
-    width: 100px;
+.catagories img {
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
 }
